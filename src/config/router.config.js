@@ -53,6 +53,16 @@ module.exports = [
       }
     ],
   },
+  {
+    name: 'AI健身',
+    path: '/aiFitness',
+    items: [
+      {
+        path: '/aiFitness/vido',
+        name: '标准视频管理',
+      }
+    ]
+  },
   // {
   //   name: '流程管理FR',
   //   path: '/workFlowManageFR',
